@@ -10,7 +10,7 @@ Android app trained using deep CNN's on the SVHN dataset, which takes an input f
 
 Currently Rektext recognises digits from 0 to 9 (printed, real world digits are the best use case). I wanted to make a model and then be able to apply it in the real world without too much hasle hence the idea for making an app.
 
-The MNIST dataset seemed to mainstream and also was'nt good for the use case here, hence SVHN is used.
+The MNIST dataset seemed to mainstream and also wasn't good for the use case here, hence SVHN is used.
 
 The SVHN dataset is the next step from MNIST towards applying CNN's to real world applications, due to the nature of this dataset it seemed best suited for this app.
 
