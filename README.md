@@ -3,8 +3,8 @@
 Android app trained using deep CNN's on the SVHN dataset, which takes an input from camera and (for now) recognises numerical digits 0 through 9.
 
 #### Python 3 used for DL model.
-#### Min SDK version: 15
-#### Target SDK version: 26
+#### Min Android SDK version: 15
+#### Target Android SDK version: 26
 
 # Overview
 
@@ -63,6 +63,6 @@ There are multiple sources which helped me develop this app.
 
 - First and foremost [this repo](https://github.com/thomalm/svhn-multi-digit) by Thomas is the core of the Deep Learning model.
 
-- Secondly [this video](https://www.youtube.com/watch?v=kFWKdLOxykE) by Siraj on Youtube is how I learnt to use TF on Android. Big thanks to him, check out his videos if you're into ML/DL.
+- Secondly [this video](https://www.youtube.com/watch?v=kFWKdLOxykE) by Siraj on Youtube is how I learnt to use TF on Android, export pb files and use them in Android. Big thanks to him, check out his videos if you're into ML/DL.
 
 ### Any improvements/suggestions/queries are more than welcome.
