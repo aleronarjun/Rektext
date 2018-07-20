@@ -15,15 +15,9 @@ Rektext best works on real world printed images, and will perform better if the 
 
 Demo images :
 
-<img src="Images/0.jpg" alt="alt text" width="200" height="auto">
-<img src="Images/1.jpg" alt="alt text" width="200" height="auto">
-<img src="Images/2.jpg" alt="alt text" width="200" height="auto">
-<img src="Images/3.jpg" alt="alt text" width="200" height="auto">
-<img src="Images/4.jpg" alt="alt text" width="200" height="auto">
-<img src="Images/5.jpg" alt="alt text" width="200" height="auto">
-<img src="Images/6.jpg" alt="alt text" width="200" height="auto">
-<img src="Images/7.jpg" alt="alt text" width="200" height="auto">
-<img src="Images/8.jpg" alt="alt text" width="200" height="auto">
+<img src="Images/0.jpg" alt="alt text" width="200" height="auto"><img src="Images/1.jpg" alt="alt text" width="200" height="auto"><img src="Images/2.jpg" alt="alt text" width="200" height="auto">
+<img src="Images/3.jpg" alt="alt text" width="200" height="auto"><img src="Images/4.jpg" alt="alt text" width="200" height="auto"><img src="Images/5.jpg" alt="alt text" width="200" height="auto">
+<img src="Images/6.jpg" alt="alt text" width="200" height="auto"><img src="Images/7.jpg" alt="alt text" width="200" height="auto"><img src="Images/8.jpg" alt="alt text" width="200" height="auto">
 <img src="Images/9.jpg" alt="alt text" width="200" height="auto">
 
 Printed digits classification from SVHN on Android with TensorFlow.
