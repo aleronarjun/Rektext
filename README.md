@@ -15,16 +15,16 @@ Rektext best works on real world printed images, and will perform better if the 
 
 Demo images :
 
-![Image](images/0.jpg)
-![Image](images/1.jpg)
-![Image](images/2.jpg)
-![Image](images/3.jpg)
-![Image](images/4.jpg)
-![Image](images/5.jpg)
-![Image](images/6.jpg)
-![Image](images/7.jpg)
-![Image](images/8.jpg)
-![Image](images/9.jpg)
+![Image](Images/0.jpg)
+![Image](Images/1.jpg)
+![Image](Images/2.jpg)
+![Image](Images/3.jpg)
+![Image](Images/4.jpg)
+![Image](Images/5.jpg)
+![Image](Images/6.jpg)
+![Image](Images/7.jpg)
+![Image](Images/8.jpg)
+![Image](Images/9.jpg)
 
 Printed digits classification from SVHN on Android with TensorFlow.
 
