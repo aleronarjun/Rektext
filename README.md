@@ -15,7 +15,7 @@ Rektext best works on real world printed images, and will perform better if the 
 
 Demo images :
 
-<img src="Images/1" alt="alt text" width="100" height="100">
+<img src="Images/1.jpg" alt="alt text" width="100" height="100">
 ![Image](Images/1.jpg | width="100")
 ![Image](Images/2.jpg | width="100")
 ![Image](Images/3.jpg | width="100")
